@@ -1,0 +1,9 @@
+{
+  "name": "stallion-luxury-suites",
+  "version": "1.0.0",
+  "description": "Stallion Luxury Suites website",
+  "scripts": {
+    "build": "echo Build complete",
+    "start": "python -m http.server 8000"
+  }
+}
