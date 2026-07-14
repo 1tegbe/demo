@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Stallion Luxury Suites website",
   "scripts": {
-    "build": "echo static site, no build needed",
+    "build": "exit 0",
     "start": "python -m http.server 8000"
   }
 }
